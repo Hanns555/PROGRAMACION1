@@ -11,7 +11,8 @@ int main() {
    int numero, suma; 
    cout<< "Ingrese un numero: ";
    cin>> numero;
-   suma=(numero*(numero+1))/2;
+   suma=(numero*(numero+1))/2; // esta formula hace que imprima la suma de 1 hasta n
    cout<<"La suma es"<<suma;
 return 0;
 }
+
