@@ -12,13 +12,14 @@ main(){
     cin>>numero;
    for (int i = 0; i <= numero; i++)
    {
-    for (int a = 0; a <= i; a++)
+    for (int a = 0; a <= i; a++) //Este for hace que imprima a veces cada vez
     {
          cout<<"*";
     }
-    cout<< endl;
+    cout<< endl; // Este endl hace que al imprimir los * se haga una linea abajo 
    }
    
 
     return 0;
+
 }
