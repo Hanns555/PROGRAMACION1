@@ -10,13 +10,14 @@ int main() {
     int notas;
     float nota, promedio, suma=0;
     cout << "Cuantas notas ingresara al programa?: ";
-    cin >> notas;
+    cin >> notas; //Se coloca esto para hacerle saber cuantas notas ingresaran 
     for (int i = 1; i <= notas; i++) {
         cout << "Ingrese la nota " << i << ": ";
         cin >> nota;
-        suma += nota; 
+        suma += nota; // Se suma los datos ingresado
     }
     promedio = suma / notas; 
     cout << "El promedio general es: " << promedio << endl;
     return 0;
+
 }
