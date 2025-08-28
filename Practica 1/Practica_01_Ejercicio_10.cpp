@@ -10,6 +10,7 @@ main(){
     int nota;
     cout<<"Ingrese su nota; ";
     cin>>nota;
+    // Con el simbolo && hace que los numeros entren en un intervalo 
     if (51<=nota && nota<60)
     {
         cout<< "Calificacion = C";
@@ -33,4 +34,5 @@ main(){
          cout<< "Reprobado";
     }
     return 0;
+
 }
