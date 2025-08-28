@@ -48,8 +48,10 @@ main(){
     else if (mes==12){
          cout<< "Es Diciembre";
     }
+    // el else final hace que si se coloca xualquier cosa que no sea un numero del 1-12 el programa imprime mes invalido 
     else{
          cout<< "Mes Invalido";
     }
     return 0;
+
 }
