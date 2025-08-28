@@ -11,6 +11,7 @@ main (){
     do{
       cout<<"Ingrese un numero: ";
       cin>>numero;
-    } while(numero<1 || numero>5);
+    } while(numero<1 || numero>5); //Este do while hace que mientras mientras el numero ingresado no sea 1,2,3,4,5 sigue pidiendo un numero
     return 0;
+
 }
