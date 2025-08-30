@@ -1,6 +1,6 @@
 // Materia: Programación I, Paralelo 4 
 // Autor: Hanns Michael Silva Pardo
-// Carnet: 8357097 L.P. cls
+// Carnet: 8357097 L.P. 
 // Carrera del estudiante: Ingeniería Biomedica 
 // Fecha creación: 24/08/2025 
 // Número de ejercicio: 4
@@ -17,3 +17,4 @@ int main(){
     return 0;
 
 }
+
