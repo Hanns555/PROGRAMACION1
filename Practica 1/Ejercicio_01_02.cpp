@@ -1,5 +1,5 @@
 // Materia: Programación I, Paralelo 4 
-// Autor: Hanns Michael Silova Pardo
+// Autor: Hanns Michael Silva Pardo
 // Carnet: 8357097 L.P. 
 // Carrera del estudiante: Ingeniería Biomedica 
 // Fecha creación: 24/08/2025 
