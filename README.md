@@ -1,2 +1,2 @@
 # PROGRMACION1
-ejercicios
+EJERCICIOS
