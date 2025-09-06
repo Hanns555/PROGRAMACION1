@@ -3,7 +3,7 @@
 // Carnet: 8357097 L.P. 
 // Carrera del estudiante: Ingeniería Biomedica 
 // Fecha creación: 06/09/2025 
-// Número de ejercicio: 5
+// Número de ejercicio: 7
 /*
 7. En una guardería hay N niños de 1, 2 y 3 años:  
 - Los niños de 1 año consumen 6 pañales al día 
@@ -36,4 +36,5 @@ int main(){
     panales= (contador*6) + (contador2*3) + (contador3*2);
     cout<< "La cantidad de panales diarios son: "<<panales<<endl;
     return 0;
+
 }
