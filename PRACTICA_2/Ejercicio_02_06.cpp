@@ -1,3 +1,13 @@
+// Materia: Programación I, Paralelo 4 
+// Autor: Hanns Michael Silva Pardo 
+// Carnet: 8357097 L.P. 
+// Carrera del estudiante: Ingeniería Biomedica 
+// Fecha creación: 06/09/2025 
+// Número de ejercicio: 6
+/*
+6. Genere N número aleatorios entre 1 y 10000, muéstrelos en pantalla y cuente 
+cuantos números son primos. 
+*/ 
 #include <iostream>
 #include <ctime>
 #include <cmath>
