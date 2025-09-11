@@ -13,9 +13,9 @@ int main() {
     int numero;
     cout<< "Ingrese un numero: ";
     cin >> numero; //el usuario pone el número
-
+    //si da true es par
     if(residuo(numero)){
-        cout<< "El numero es par"; //si da true es par
+        cout<< "El numero es par"; 
     }
     else{
         cout<<"El numero es impar"; //si no es par, entonces es impar
@@ -29,4 +29,5 @@ bool residuo(int x){
         return true;
     }
     return false; //si no cumple, devuelve false
+
 }
