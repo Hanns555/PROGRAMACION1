@@ -1,7 +1,7 @@
 // Materia: Programación I, Paralelo 4 
 // Autor: Hanns Micahel Silva Pardo. 
 // Fecha creación: 16/09/2025 
-// Número de ejercicio: 3
+// Número de ejercicio: 4
 /*
 4. Crea dos funciones: Una función llamada “ConvertirCelsiusAFahrenheit” que reciba 
 grados Celsius y devuelva la conversión a Fahrenheit. Una función llamada 
@@ -65,4 +65,5 @@ void MayorTemperatura(int x, int y ){
     else{
      cout<< "La temeratura "<<x<<" es igual a "<<y<< endl;
     }
+
 }
