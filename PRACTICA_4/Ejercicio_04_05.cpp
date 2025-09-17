@@ -1,7 +1,7 @@
 // Materia: Programación I, Paralelo 4 
 // Autor: Hanns Micahel Silva Pardo. 
 // Fecha creación: 16/09/2025 
-// Número de ejercicio: 3
+// Número de ejercicio: 5
 /*
 5. Realizar un programa que reciba las horas trabajadas de un trabajador, la tarifa por 
 hora y una bonificación si trabaja más de 8 horas , solamente a las horas extra. Debe dar 
@@ -40,4 +40,5 @@ int bonificacion(int a, int b){
     int aumento=0;
     aumento=a*b;
     return aumento;
+
 }
