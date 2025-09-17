@@ -31,14 +31,17 @@ int main(){
     }
     return 0;
 }
+//Funcion para calcular salario
 int salario(int x, int y){
     int monto=0;
     monto=x*y;
     return monto;
 }
+//Funcion calcular bono
 int bonificacion(int a, int b){
     int aumento=0;
     aumento=a*b;
     return aumento;
 
 }
+
