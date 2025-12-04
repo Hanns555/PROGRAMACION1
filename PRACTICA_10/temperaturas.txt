@@ -1,0 +1,9 @@
+LaPaz 20
+SantaCruz 30
+Oruro 10
+Potosi 20
+Tarija 40
+Chuquisaca 12
+Pando 10
+Beni 22
+Cochabamba 20

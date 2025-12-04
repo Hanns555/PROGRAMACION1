@@ -1,0 +1,3 @@
+Manzana   2.5
+Banana   50.6
+Pera   6

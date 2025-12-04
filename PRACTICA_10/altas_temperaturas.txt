@@ -1,0 +1,3 @@
+SantaCruz   30
+Tarija   40
+Beni   22

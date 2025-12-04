@@ -1,0 +1,10 @@
+Datos estudiante [1]
+=======================
+Nombre: Hanns
+Edad: 20
+Promedio: 85.2
+Datos estudiante [2]
+=======================
+Nombre: Michael
+Edad: 21
+Promedio: 86.4
